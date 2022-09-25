@@ -1,0 +1,40 @@
+baseURL: ""
+languageCode: 'en-us'
+title: 'Sigma Vision'
+theme: "PaperMod"
+
+params:
+  profileMode:
+    enabled: true
+    title: "SigmaVision"
+    subtitle: Welcome to the doccumentation of the SigmaVision projet. Here, you can find all you need to understand every line of code written for this project.
+    imageUrl: gigachad.jpg
+  
+  socialIcons:
+    - name: "GitHub"
+      url: "https://github.com/Sigma-Vision/Sigma-Vision"
+   
+  ShowBreadCrumbs: true
+
+menu:
+    main:
+        - identifier: preprocess
+          name: Preprocess 
+          url: /preprocess/
+          weight: 10
+        - identifier: gridDetection
+          name: Grid-Detection 
+          url: /detection/
+          weight: 20
+        - identifier: neuronal-network
+          name: Neuronal-Network
+          url: /neuronal/
+          weight: 30
+        - identifier: sudoku-solving
+          name: Sudoku-Solving
+          url: /solving/
+          weight: 40
+        - identifier: postProcess
+          name: Postprocess
+          url: /postprocess/
+          weight: 50
