@@ -29,8 +29,8 @@ menu:
           name: Grid-Detection  
           url: /detection/
           weight: 20
-        - identifier: neuronal-network
-          name: Neuronal-Network
+        - identifier: neural-network
+          name: Neural-Network
           url: /neural/
           weight: 30
         - identifier: sudoku-solving
