@@ -12,7 +12,7 @@ params:
   
   socialIcons:
     - name: "GitHub"
-      url: "https://github.com/Sigma-Vision/Sigma-Vision"
+      url: "https://Sigma-Vision.github.io/doc-hugo"
    
   ShowBreadCrumbs: true
 
