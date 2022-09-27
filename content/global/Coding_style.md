@@ -1,4 +1,10 @@
-﻿# Coding Style SigmaVision
+﻿---
+title: Coding Style
+date: 2022-09-27T13:37:16+02:00
+draft: false
+---
+
+# Coding Style SigmaVision
 
 ## Introduction
 This document is the official documentation for the coding style to be used in every project from SigmaVision. This document may be shared and used as reference.

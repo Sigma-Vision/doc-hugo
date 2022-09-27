@@ -9,6 +9,9 @@ params:
     title: "SigmaVision"
     subtitle: Welcome to the doccumentation of the SigmaVision projet. Here, you can find all you need to understand every line of code written for this project.
     imageUrl: gigachad.jpg
+    buttons:
+      - name: Coding Style
+        url: /global/coding_style/
   
   socialIcons:
     - name: "GitHub"
