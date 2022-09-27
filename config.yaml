@@ -11,7 +11,7 @@ params:
     imageUrl: gigachad.jpg
     buttons:
       - name: Coding Style
-        url: /global/coding_style/
+        url: /doc-hugo/global/coding_style/
   
   socialIcons:
     - name: "GitHub"
