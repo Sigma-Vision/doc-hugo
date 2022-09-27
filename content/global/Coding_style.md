@@ -1,6 +1,6 @@
 ﻿---
-title: Coding Style
-date: 2022-09-27T13:37:16+02:00
+title: "Coding Style"
+date: 2022-09-26T13:37:16+02:00
 draft: false
 ---
 

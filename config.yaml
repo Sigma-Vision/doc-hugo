@@ -15,7 +15,7 @@ params:
   
   socialIcons:
     - name: "GitHub"
-      url: "https://Sigma-Vision.github.io/doc-hugo"
+      url: "https://github.com/Sigma-Vision/Sigma-Vision"
    
   ShowBreadCrumbs: true
 
@@ -26,7 +26,7 @@ menu:
           url: /preprocess/
           weight: 10
         - identifier: gridDetection
-          name: Grid-Detection 
+          name: Grid-Detection  
           url: /detection/
           weight: 20
         - identifier: neuronal-network
