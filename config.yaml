@@ -31,7 +31,7 @@ menu:
           weight: 20
         - identifier: neuronal-network
           name: Neuronal-Network
-          url: /neuronal/
+          url: /neural/
           weight: 30
         - identifier: sudoku-solving
           name: Sudoku-Solving
