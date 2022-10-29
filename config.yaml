@@ -8,7 +8,7 @@ params:
     enabled: true
     title: "SigmaVision"
     subtitle: Welcome to the doccumentation of the SigmaVision projet. Here, you can find all you need to understand every line of code written for this project.
-    imageUrl: gigachad.jpg
+    imageUrl: sigma_vision_logo.png
     buttons:
       - name: Coding Style
         url: /doc-hugo/global/coding_style/
