@@ -37,7 +37,7 @@ menu:
           name: Sudoku-Solving
           url: /solving/
           weight: 40
-        - identifier: postProcess
-          name: Postprocess
-          url: /postprocess/
+        - identifier: UI
+          name: UI
+          url: /ui/
           weight: 50
